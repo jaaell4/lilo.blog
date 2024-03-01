@@ -10,6 +10,6 @@ Lead:
 
 <!--StartFragment-->
 
-{{<box>}}
+{{<text>}}
 
 <!--EndFragment-->
