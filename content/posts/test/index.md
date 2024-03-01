@@ -6,10 +6,16 @@ pinned = false
 +++
 # **Titel**
 
-Lead: 
+{{<lead>}}
+
+Lead 
+
+{{</lead>}}
+
+
 
 {{<box>}}
 
-jhggfddss
+Infobox
 
 {{<box>}}
