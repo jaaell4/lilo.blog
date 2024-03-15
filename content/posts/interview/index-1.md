@@ -20,11 +20,15 @@ Der Präsident des Berner Matteänglisch-Club und CO-Autor des Buches "Matteäng
 
 {{</box>}}
 
+
+> Es gibt eine Menge Gerüchte und Vorstellungen.
+
+
 #### **Kennt oder besser gesagt erkennt man den das Matteänglisch?**
 
 Manchmal, aber nicht wirklich. Man muss die Menschen schon darauf aufmerksam machen. Es gibt eine Menge Gerüchte und Vorstellungen. Es wird automatisch mit dem Armenquartier von 1191 verbunden. 
 
-> Es gibt eine Menge Gerüchte und Vorstellungen.
+
 
 #### **Bist du in der Matte aufgewachsen?**
 
@@ -54,11 +58,13 @@ Nach dem Krieg wurde alles internationaler. Den Dialekt und das Matteänglisch v
 
 Das haben die Mätteler hier unten bemerkt und beschlossen, dass sie etwas dagegen tun müssen. 
 
+> Einer der Mätteler ging voran und die anderen machten mit.
+
 #### **Entstand so der Matteänglisch-Club?**
 
 Ja. Einer der Mätteler ging voran und die anderen machten mit. Nach 10 Jahren kam dann das erste Buch heraus, welches wir bis vorletzt noch gebraucht haben. Verschiedene Leute aus der Matte haben Geschichten und Artikel geschrien, welche im Buch zusammengefasst wurden. 
 
-> Einer der Mätteler ging voran und die anderen machten mit.
+
 
 #### **Ich bemerke hier in der Matte eine andere Stimmung als in der Oberstadt. Nimmst du das auch so wahr?**
 
