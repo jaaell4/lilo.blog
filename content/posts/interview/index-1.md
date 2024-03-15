@@ -16,7 +16,7 @@ Die Matte birgt viele Geheimnisse. Dank dem Mätteler Peter Hafen konnte ich ein
 
 Manchmal, aber nicht wirklich. Man muss die Menschen schon darauf aufmerksam machen. Es gibt eine Menge Gerüchte und Vorstellungen. Es wird automatisch mit dem Armenquartier von 1191 verbunden. 
 
->Es gibt eine Menge Gerüchte und Vorstellungen.
+> Es gibt eine Menge Gerüchte und Vorstellungen.
 
 **Bist du in der Matte aufgewachsen?**
 
@@ -39,9 +39,7 @@ Ja, das ist ein lebhafter Unterschied. Der Dialekt ist eine Entwicklung und das 
 Die Sprach hatte ihre Wellen. Um die Jahrhundertwende 1910, fand der damalige Stadtdoktor heraus, dass man in den Häusern der Badgasse nicht mehr wohnen kann. Man wurde darin krank und so mussten die Menschen darin fortjagen, um neue Häuser zu bauen. Die Menschen zogen weg von der Matte, in den Breitsch oder nach Bümpliz. So gab es also nur noch wenige, die die Sprache konnten und man brauchte es immer wie weniger. 
 Im Zweiten Weltkrieg jedoch legte man wieder Wert darauf, ein richtiger Schweizer zu sein. Hier in der Matte besonders. 
 
-> ```
-> Man wurde darin krank und so mussten die Menschen darin fortjagen, um neue Häuser zu bauen.
-> ```
+>Man wurde darin krank und so mussten die Menschen darin fortjagen, um neue Häuser zu bauen. 
 
 Nach dem Krieg wurde alles internationaler. Den Dialekt und das Matteänglisch verstand man nicht mehr und es wurde wieder nicht gebraucht. Ausserdem wollten die Jungen lieber ihre eigene Geheimsprache entwickeln, welche nicht lange andauerte, als das Matteänglisch weiterzuführen. 
 
