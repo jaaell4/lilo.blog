@@ -4,6 +4,8 @@ date = "2024-03-12"
 draft = false
 pinned = false
 +++
+
+
 ## "Den Lehrern wurde verboten, den wüsten Dialekt in der Schule zu gebrauchen"
 
 {{<lead>}}
@@ -13,6 +15,18 @@ Die Matte birgt viele Geheimnisse. Dank dem Mätteler Peter Hafen konnte ich ein
 {{</lead>}}
 
 ![Peter Hafen](foto-peter-hafen-verkleinert.jpg)
+
+{{<box>}}
+
+
+
+
+
+
+{{</box>}}
+
+
+
 
 #### **Kennt oder besser gesagt erkennt man den das Matteänglisch?**
 
