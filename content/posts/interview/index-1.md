@@ -34,8 +34,9 @@ Ja, das ist ein lebhafter Unterschied. Der Dialekt ist eine Entwicklung und das 
 Die Sprach hatte ihre Wellen. Um die Jahrhundertwende 1910, fand der damalige Stadtdoktor heraus, dass man in den Häusern der Badgasse nicht mehr wohnen kann. Man wurde darin krank und so mussten die Menschen darin fortjagen, um neue Häuser zu bauen. Die Menschen zogen weg von der Matte, in den Breitsch oder nach Bümpliz. So gab es also nur noch wenige, die die Sprache konnten und man brauchte es immer wie weniger. 
 Im Zweiten Weltkrieg jedoch legte man wieder Wert darauf, ein richtiger Schweizer zu sein. Hier in der Matte besonders. 
 
->	Man wurde darin krank und so mussten die Menschen darin fortjagen, um neue Häuser zu bauen.
-
+> ```
+> Man wurde darin krank und so mussten die Menschen darin fortjagen, um neue Häuser zu bauen.
+> ```
 
 Nach dem Krieg wurde alles internationaler. Den Dialekt und das Matteänglisch verstand man nicht mehr und es wurde wieder nicht gebraucht. Ausserdem wollten die Jungen lieber ihre eigene Geheimsprache entwickeln, welche nicht lange andauerte, als das Matteänglisch weiterzuführen. 
 
@@ -44,6 +45,8 @@ Das haben die Mätteler hier unten bemerkt und beschlossen, dass sie etwas dageg
 
 **Entstand so der Matteänglisch-Club?**
 Ja. Einer der Mätteler ging voran und die anderen machten mit. Nach 10 Jahren kam dann das erste Buch heraus, welches wir bis vorletzt noch gebraucht haben. Verschiedene Leute aus der Matte haben Geschichten und Artikel geschrien, welche im Buch zusammengefasst wurden. 
+
+>Einer der Mätteler ging voran und die anderen machten mit.
 
 **Ich bemerke hier in der Matte eine andere Stimmung als in der Oberstadt. Nimmst du das auch so wahr?**
 Ja, schon. Es wechselt zwar, ein Generationenwelchsel. Es kommen immer mehr Leute mit der romantischen Vorstellung gegenüber der Lage am Wassers nach unten. Sie renovieren die Häuser und sind glücklich, dass sie hier schlafen können. 
