@@ -12,7 +12,7 @@ Die Matte birgt viele Geheimnisse. Dank dem Mätteler Peter Hafen konnte ich ein
 
 {{</lead>}}
 
-![](foto-peter-hafen-verkleinert.jpg)
+![Peter Hafen](foto-peter-hafen-verkleinert.jpg)
 
 #### **Kennt oder besser gesagt erkennt man den das Matteänglisch?**
 
@@ -30,7 +30,6 @@ Ich bin also dennoch ein Mätteler, ein akzeptierter. Denn früher musste mindes
 #### **Wie bist du dann zur Sprache gekommen?**
 
 Mein Vater benutze ab und zu Ausdrücke und auch in der Umgebung bekam ich es mit. Ausserdem bin ich im Kirchenfeld zur Schule, wo auch die aus dem Marzili hinkamen. Die haben natürlich den Mattendialekt gesprochen und so gehöre ich noch zu jenen, die den Mattedialekt sprechen. Obwohl mein Passiv-Wortschatz natürlich grösser ist als der aktive. 
-
 
 #### **Es besteht also ein Unterschied, zwischen dem Matteänglisch und dem Mattedialekt?**
 
