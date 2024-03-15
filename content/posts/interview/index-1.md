@@ -12,6 +12,8 @@ Die Matte birgt viele Geheimnisse. Dank dem Mätteler Peter Hafen konnte ich ein
 
 {{</lead>}}
 
+![](foto-peter-hafen-verkleinert.jpg)
+
 #### **Kennt oder besser gesagt erkennt man den das Matteänglisch?**
 
 Manchmal, aber nicht wirklich. Man muss die Menschen schon darauf aufmerksam machen. Es gibt eine Menge Gerüchte und Vorstellungen. Es wird automatisch mit dem Armenquartier von 1191 verbunden. 
