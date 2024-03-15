@@ -12,7 +12,7 @@ Die Matte birgt viele Geheimnisse. Dank dem Mätteler Peter Hafen konnte ich ein
 
 
 
-![](foto-peter-hafen-verkleinert.jpg)
+![]()
 
 {{</lead>}}
 
