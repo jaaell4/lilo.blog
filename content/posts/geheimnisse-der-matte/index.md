@@ -11,3 +11,7 @@ pinned = false
 Die Matte birgt viele Geheimnisse. Dank dem Mätteler Peter Hafen konnte ich einem etwas näher kommen, dem Matteänglisch. Warum der Stadtdoktor zum Verschwinden beitrug und wie der Mätteänglisch-Club entstand, erschliesst sich aus diesem Interview. 
 
 {{</lead>}}
+
+
+
+![](foto-peter-hafen-verkleinert.jpg)
