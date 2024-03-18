@@ -12,6 +12,4 @@ Die Matte birgt viele Geheimnisse. Dank dem Mätteler Peter Hafen konnte ich ein
 
 {{</lead>}}
 
-
-
-![](foto-peter-hafen-verkleinert.jpg)
+![Der Mätteler Peter Hafen vor dem Aarenbogen, der die Matte umgibt.](foto-peter-hafen-verkleinert.jpg)
