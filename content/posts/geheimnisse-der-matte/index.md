@@ -3,6 +3,7 @@ title = "Geheimnisse der Matte"
 date = "2024-03-18"
 draft = false
 pinned = false
+image = "screenshot-2024-04-26-141344-1-.png"
 +++
 ## "Den Lehrern wurde verboten, den wüsten Dialekt in der Schule zu gebrauchen."
 
