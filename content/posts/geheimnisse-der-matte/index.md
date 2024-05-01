@@ -5,7 +5,7 @@ draft = false
 pinned = false
 image = "screenshot-2024-04-26-141344-1-.png"
 +++
-## "Den Lehrern wurde verboten, den wüsten Dialekt in der Schule zu gebrauchen."
+## "Den Lehrern wurde verboten, den "wüsten" Dialekt in der Schule zu gebrauchen."
 
 {{<lead>}}
 
@@ -17,34 +17,34 @@ Die Matte birgt viele Geheimnisse. Dank dem Mätteler Peter Hafen konnte ich ein
 
 {{<box>}}
 
-Der Präsident des Berner Matteänglisch-Club und CO-Autor des Buches "Matteänglisch" gibt alles, um die Sprache zu erhalten. Mit regelmässigen Vorträgen, Höcks des Clubs und der Bereitschaft Interviews für (Matura-) Arbeiten zu geben, trägt er zum Erhalt bei.
+Der Präsident des Berner Matteänglisch-Club und Co-Autor des Buches "Matteänglisch" gibt alles, um die Sprache zu erhalten. Mit regelmässigen Vorträgen, Höcks des Clubs und der Bereitschaft Interviews für (Matura-) Arbeiten zu geben, trägt er zum Erhalt bei. Er ist 1947 geboren, im Altenberg aufgewachsen und lebt bis heute dort. Seit 2000 präsidiert er den Matteänglisch-Club, welcher 1958 entstand.
 
 {{</box>}}
 
 > Es gibt eine Menge Gerüchte und Vorstellungen.
 
-#### **Kennt oder besser gesagt erkennt man den das Matteänglisch?**
+#### **Kennt oder besser gesagt erkennt man das Matteänglisch?**
 
 Manchmal, aber nicht wirklich. Man muss die Menschen schon darauf aufmerksam machen. Es gibt eine Menge Gerüchte und Vorstellungen. Es wird automatisch mit dem Armenquartier von 1191 verbunden. 
 
 #### **Bist du in der Matte aufgewachsen?**
 
 Nein. Aber mein Urgrossvater und mein Grossvater. Mein Vater nur noch zu einem Teil und ich selbst nur noch zu einem kleinen Teil. Mein Grossvater eröffnete später im Altenberg ein Geschäft, aber ging, wie mein Vater, hier in der Matte zur Schule. So blieb der Kontakt in die Matte. 
-Ich bin also dennoch ein Mätteler, ein akzeptierter. Denn früher musste mindestes der Grossvater in der Matte gelebt haben, um als Mätteler zu gelten.
+Ich gelte also als Mätteler. Denn früher musste mindestes der Grossvater in der Matte gelebt haben, um als Mätteler zu gelten.
 
-> Ich bin also dennoch ein Mätteler, ein akzeptierter.
+> Früher musste mindestens der Grossvater in der Matte gelebt haben, um als Mätteler zu gelten.
 
-#### **Wie bist du dann zur Sprache gekommen?**
+#### **Wie bist du zur Sprache gekommen?**
 
-Mein Vater benutzte ab und zu Ausdrücke und auch in der Umgebung bekam ich es mit. Ausserdem bin ich im Kirchenfeld zur Schule gegangen, wo auch die aus dem Marzili hinkamen. Die haben natürlich den Mattendialekt gesprochen und so gehöre ich noch zu jenen, die den Mattedialekt sprechen. Obwohl mein Passiv-Wortschatz natürlich grösser ist als der aktive. 
+Mein Vater benutzte ab und zu Ausdrücke und auch in der Umgebung bekam ich es mit. Ausserdem bin ich im Kirchenfeld zur Schule gegangen, wo auch die Kinder aus dem Marzili hinkamen. Die haben natürlich den Mattendialekt gesprochen und so gehöre ich noch zu jenen, die den Mattedialekt sprechen. Obwohl mein Passiv-Wortschatz natürlich grösser ist als der aktive. 
 
 #### **Es besteht also ein Unterschied, zwischen dem Matteänglisch und dem Mattedialekt?**
 
-Ja, das ist ein lebhafter Unterschied. Der Dialekt ist eine Entwicklung und das Matteänglisch hat ein System. 
+Ja, das ist ein lebhafter Unterschied. Der Dialekt ist eine Entwicklung und das Matteänglisch hat ein System. Es ist eine sogenannte i-e Sprache, die gewissen Regeln folgt. Beispielsweise werden Buchstaben abgetrennt und hinzugefügt. Der Dialekt hingegen passiert einfach.
 
-#### **Wie kam es dann dazu, dass die Sprache verschwand?**
+#### **Wie kam es dazu, dass die Sprache verschwand?**
 
-Die Sprache hatte ihre Wellen. Um die Jahrhundertwende 1910 fand der damalige Stadtdoktor heraus, dass man in den Häusern der Badgasse nicht mehr wohnen kann. Man wurde krank darin und so mussten die Menschen fortgejagt werden, um neue Häuser zu bauen. Die Menschen zogen weg von der Matte, in den Breitsch oder nach Bümpliz. So gab es also nur noch Wenige, die die Sprache konnten und man brauchte sie immer wie weniger. 
+Die Sprache hatte ihre Wellen. Um die Jahrhundertwende 1910 fand der damalige Stadtdoktor heraus, dass man in den Häusern der Badgasse nicht mehr wohnen kann. Man wurde krank darin und so mussten die Menschen fortgejagt werden, um neue Häuser zu bauen. Die Menschen zogen weg von der Matte, in den Breitsch oder nach Bümpliz. So gab es also nur noch Wenige, die die Sprache konnten, und man brauchte sie immer wie weniger. 
 Im Zweiten Weltkrieg jedoch legte man wieder Wert darauf, ein richtiger Schweizer zu sein. Hier in der Matte besonders. Die Sprache gewann an Wert.
 
 > Man wurde krank darin und so mussten die Menschen fortgejagt werden, um neue Häuser zu bauen. 
