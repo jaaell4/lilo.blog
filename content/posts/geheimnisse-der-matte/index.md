@@ -72,8 +72,10 @@ Man findet ab und zu Menschen, die es noch sprechen. Sogar ganze Familien, die f
 
 #### **Hast du das Gefühl, dass es Hemmungen gibt, die Sprache weiterzugeben, weil es ursprünglich etwas Geheimes war?**
 
-Also grundsätzlich hat man es nie gelernt, man nahm es auf. In der Regel lehrten es nicht die Eltern, sondern es wurde vor allem in der Schule aufgenommen. Doch die von oben pochten auf das schöne Berndeutsch, das Patrizierberndeutsch, welches dann auch zum Stadtberndeutsch wurde. Den Lehrern wurde verboten, den wüsten Dialekt in der Schule zu gebrauchen. Hiess, auch hier durfte man das Matteänglisch nicht mehr sprechen, oder zumindest nicht, wenn ein Lehrer da war. (Lach)
+Also grundsätzlich hat man es nie gelernt, man nahm es auf. In der Regel lehrten es nicht die Eltern, sondern es wurde vor allem in der Schule aufgenommen. Doch die von oben pochten auf das schöne Berndeutsch, das Patrizierberndeutsch, welches dann auch zum Stadtberndeutsch wurde. Den Lehrern wurde verboten, den "wüsten" Dialekt in der Schule zu gebrauchen. Daraus folgte, dass man auch hier das Matteänglisch nicht mehr sprechen durfte, oder zumindest nicht, wenn ein Lehrer da war. (lacht)
+
+>Also grundsätzlich hat man es nie gelernt, man nahm es auf. In der Regel lehrten es nicht die Eltern, sondern es wurde vor allem in der Schule aufgenommen.
 
 #### **Das Zuhören ist beim Matteänglisch sehr wichtig. Glaubst du, dass das Verschwinden damit zusammenhängt, dass man sich heute nicht mehr richtig zuhört?**
 
-Vielleicht ja. Ich kann problemlos, nicht gerade ganz akzentfrei, Matteänglisch sprechen, aber es braucht immer einen kurzen Moment, bis man hineinkommt. Wenn ich unterrichte und den Zusammenhang kenne, dann ist es etwas anders. Im Film Gespensterhaus beispielsweise gibt es eine Szene von einem Stammtisch, die auf Matteänglisch und Mattedialekt fluchen. Verstehen tue ich das auch nur, weil ich es für mich übersetzt habe. (lach)
+Vielleicht ja. Ich kann problemlos, nicht gerade ganz akzentfrei, Matteänglisch sprechen, aber es braucht immer einen kurzen Moment, bis man hineinkommt. Wenn ich unterrichte und den Zusammenhang kenne, dann ist es etwas anders. Im Film "Gespensterhaus" beispielsweise gibt es eine Szene von einem mit Männern besetzten Stammtisch, woran auf Matteänglisch und Mattedialekt geflucht wird. Verstehen tue ich das auch nur, weil ich es für mich übersetzt habe. (lacht)
