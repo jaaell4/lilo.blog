@@ -47,24 +47,20 @@ Ja, das ist ein lebhafter Unterschied. Der Dialekt ist eine Entwicklung und das 
 Die Sprache hatte ihre Wellen. Um die Jahrhundertwende 1910 fand der damalige Stadtdoktor heraus, dass man in den Häusern der Badgasse nicht mehr wohnen kann. Man wurde krank darin und so mussten die Menschen fortgejagt werden, um neue Häuser zu bauen. Die Menschen zogen weg von der Matte, in den Breitsch oder nach Bümpliz. So gab es also nur noch Wenige, die die Sprache konnten, und man brauchte sie immer wie weniger. 
 Im Zweiten Weltkrieg jedoch legte man wieder Wert darauf, ein richtiger Schweizer zu sein. Hier in der Matte besonders. Die Sprache gewann an Wert.
 
-> Man wurde krank darin und so mussten die Menschen fortgejagt werden, um neue Häuser zu bauen. 
+> In den Häusern der Badgasse konnte man nicht mehr wohnen und so mussten die Menschen fortgejagt werden, um neue Häuser zu bauen. 
 
-Nach dem Krieg wurde alles internationaler. Den Dialekt und das Matteänglisch verstand man nicht mehr und es wurde wieder nicht gebraucht. Ausserdem wollten die Jungen lieber ihre eigene Geheimsprache entwickeln. Diese konnte sich aber nicht durchsetzen. 
-
-#### **Woran bemerkte man das Verschwinden?**
-
-Das haben die Mätteler hier unten bemerkt und beschlossen, dass sie etwas dagegen tun müssen. 
+Nach dem Krieg wurde alles internationaler. Den Dialekt und das Matteänglisch verstand man nicht mehr und es wurde wieder nicht gebraucht. Ausserdem wollten die Jungen lieber ihre eigene Geheimsprache entwickeln und nicht einfach das Alte übernehmen. Diese konnte sich aber nicht durchsetzen. 
 
 > Einer der Mätteler ging voran und die anderen machten mit.
 
-#### **Entstand so der Matteänglisch-Club?**
+#### **Entstand der Matteänglisch-Club durch das Verschwinden der Sprache?**
 
-Ja. Einer der Mätteler ging voran und die anderen machten mit. Nach 10 Jahren kam dann das erste Buch heraus, welches wir bis vor Kurzem noch gebraucht haben. Verschiedene Leute aus der Matte haben Geschichten und Artikel geschrieben, welche im Buch zusammengefasst wurden. 
+Ja. Die Mätteler haben es hier unten bemerkt und beschlossen, etwas dagegen zu unternehmen. Einer der Mätteler ging voran und die anderen machten mit. Nach 10 Jahren kam dann das erste Buch heraus, welches wir bis vor Kurzem noch gebraucht haben. Verschiedene Leute aus der Matte haben Geschichten und Artikel geschrieben, welche im Buch zusammengefasst wurden. 
 
 #### **Ich bemerke hier in der Matte eine andere Stimmung als in der Oberstadt. Nimmst du das auch so wahr?**
 
-Ja, schon. Es wechselt zwar, ein Generationenwechsel. Es kommen immer mehr Leute mit der romantischen Vorstellung gegenüber der Lage am Wassers nach unten. Sie renovieren die Häuser und sind glücklich, dass sie hier schlafen können. 
-Die alten Originalmätteler sind, bis auf vereinzelte, weg. Aufgrund der früheren und schwierigen Zeiten hatten diese einen starken Zusammenhalt. Heute findest du sie aber oben in der Stadt und nicht mehr in unseren 5 Beizen. Die, die die Beizen füllen sind von der Oberstadt.
+Ja, schon. Es wechselt zwar, ein Generationenwechsel. Es kommen immer mehr Leute mit der romantischen Vorstellung gegenüber der Lage am Wasser nach unten. Sie renovieren die Häuser und sind glücklich, dass sie hier schlafen können. 
+Die alten Originalmätteler sind, bis auf vereinzelte, weg. Aufgrund der früheren und schwierigen Zeiten hatten diese einen starken Zusammenhalt. Heute findest du sie aber oben in der Stadt und nicht mehr in unseren 5 Beizen. Die, die die Beizen füllen, sind von der Oberstadt.
 
 #### **Ein Grund mehr, warum die Sprache verloren geht, oder?**
 
