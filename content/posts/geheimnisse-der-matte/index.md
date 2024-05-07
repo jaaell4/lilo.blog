@@ -62,6 +62,8 @@ Ja. Die Mätteler haben es hier unten bemerkt und beschlossen, etwas dagegen zu 
 Ja, schon. Es wechselt zwar, ein Generationenwechsel. Es kommen immer mehr Leute mit der romantischen Vorstellung gegenüber der Lage am Wasser nach unten. Sie renovieren die Häuser und sind glücklich, dass sie hier schlafen können. 
 Die alten Originalmätteler sind, bis auf vereinzelte, weg. Aufgrund der früheren und schwierigen Zeiten hatten diese einen starken Zusammenhalt. Heute findest du sie aber oben in der Stadt und nicht mehr in unseren 5 Beizen. Die, die die Beizen füllen, sind von der Oberstadt.
 
+> Es gibt aber noch die sogenannten Heimwehmätteler. Sie treffen sich einmal im Monat, um sich auszutauschen.
+
 #### **Ein Grund mehr, warum die Sprache verloren geht, oder?**
 
 Ja, das sowieso! Es gibt aber noch die sogenannten Heimwehmätteler. Sie treffen sich einmal im Monat, um sich auszutauschen. Früher im Wöschhüsi, heute im Suresh. Und da kann es durchaus plötzlich passieren, dass Matteänglisch gesprochen wird, aber mehr Mattedialekt.
@@ -74,8 +76,8 @@ Man findet ab und zu Menschen, die es noch sprechen. Sogar ganze Familien, die f
 
 Also grundsätzlich hat man es nie gelernt, man nahm es auf. In der Regel lehrten es nicht die Eltern, sondern es wurde vor allem in der Schule aufgenommen. Doch die von oben pochten auf das schöne Berndeutsch, das Patrizierberndeutsch, welches dann auch zum Stadtberndeutsch wurde. Den Lehrern wurde verboten, den "wüsten" Dialekt in der Schule zu gebrauchen. Daraus folgte, dass man auch hier das Matteänglisch nicht mehr sprechen durfte, oder zumindest nicht, wenn ein Lehrer da war. (lacht)
 
->Also grundsätzlich hat man es nie gelernt, man nahm es auf. In der Regel lehrten es nicht die Eltern, sondern es wurde vor allem in der Schule aufgenommen.
+> Also grundsätzlich hat man es nie gelernt, man nahm es auf. In der Regel lehrten es nicht die Eltern, sondern es wurde vor allem in der Schule aufgenommen.
 
 #### **Das Zuhören ist beim Matteänglisch sehr wichtig. Glaubst du, dass das Verschwinden damit zusammenhängt, dass man sich heute nicht mehr richtig zuhört?**
 
-Vielleicht ja. Ich kann problemlos, nicht gerade ganz akzentfrei, Matteänglisch sprechen, aber es braucht immer einen kurzen Moment, bis man hineinkommt. Wenn ich unterrichte und den Zusammenhang kenne, dann ist es etwas anders. Im Film "Gespensterhaus" beispielsweise gibt es eine Szene von einem mit Männern besetzten Stammtisch, woran auf Matteänglisch und Mattedialekt geflucht wird. Verstehen tue ich das auch nur, weil ich es für mich übersetzt habe. (lacht)
+Vielleicht ja. Ich kann problemlos, nicht gerade ganz akzentfrei, Matteänglisch sprechen, aber es braucht immer einen kurzen Moment, bis man hineinkommt. Wenn ich unterrichte und den Zusammenhang kenne, dann ist es etwas anders. Im Film "Gespensterhaus" beispielsweise gibt es eine Szene von einem mit Männern besetzten Stammtisch, wobei auf Matteänglisch und Mattedialekt geflucht wird. Verstehen tue ich das auch nur, weil ich es für mich übersetzt habe. (lacht)
