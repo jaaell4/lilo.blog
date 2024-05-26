@@ -12,6 +12,13 @@ Beim Gespräch und dem anschliessenden Rundgang durch die Matte werde ich bis zu
 
 {{</lead>}}
 
+
+{{<box>}}
+
+Das Mattenquartier ist der Heimatort des Matteänglisch. Bereits im 13. Jahrhundert zog das erste Leben an den besonderen Ort nahe der Aare ein und legte den Grundstein für eine spannende Biografie einer geheimnisvollen Sprache, dem Matteänglisch. Ich durfte bei einem Gespräch mit dem Präsidenten des Matteänglischclub einen Tee und Geschichten rund um die Sprache und das Quartier geniessen. 
+
+{{</box>}}
+
 ### In Gedanken
 
 Ich bin tatsächlich etwas aufgeregt. Das Wasser des Brunnens am Mühleplatz plätschert friedlich vor sich hin und leistet mir Gesellschaft beim Warten. Meine Arme umschlingen das mitgebrachte Buch mit dem Titel «Matteänglisch», welches mich die letzten Tage in den Bann gezogen hat.
