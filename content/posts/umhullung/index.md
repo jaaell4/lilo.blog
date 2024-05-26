@@ -4,14 +4,13 @@ date = "2024-05-26"
 draft = false
 pinned = false
 +++
-Umhüllung
+# Umhüllung
 
 {{<lead>}}
 
 Beim Gespräch und dem anschliessenden Rundgang durch die Matte werde ich bis zum Verlassen umhüllt von der Energie, die hier herrscht. Ich lasse mich darauf ein und lausche den Erzählungen von Peter Hafen. 
 
 {{</lead>}}
-
 
 {{<box>}}
 
