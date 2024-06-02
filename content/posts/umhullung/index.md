@@ -3,6 +3,7 @@ title = "Umhüllung"
 date = "2024-05-26"
 draft = false
 pinned = false
+image = "bild-matte-komprimiert-2.jpg"
 +++
 ![]()
 
