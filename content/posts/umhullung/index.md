@@ -4,6 +4,10 @@ date = "2024-05-26"
 draft = false
 pinned = false
 +++
+![](bild-matte-komprimiert-2.jpg)
+
+![]()
+
 ![]()
 
 # Umhüllung
@@ -26,6 +30,8 @@ Ich bin tatsächlich etwas aufgeregt. Das Wasser des Brunnens am Mühleplatz pl�
 Während mein Blick immer wieder die Umgebung absucht, spüre ich den kalten Wind an meinen Wangen vorbeiziehen. Zum Glück habe ich mich für die wärmere Jacke entschieden. Der Winter ist wohl doch noch nicht ganz vorbei. Meine Gedanken finden den Weg zurück zum Inhalt des Buches. Wie ging die Begrüssung noch einmal? Schnell öffne ich das Buch und blättere zielsicher zu den hintersten Seiten, wo ich fündig werde. Ich nehme mir vor, Peter Hafen auf Matteänglisch zu begrüssen, aber mal schauen, ob ich mich wirklich traue.
 Die Matte ist eindeutig ein spezieller Ort. Die Stimmung hier ist einfach anders als in der restlichen Stadt und sie umschliesst mich jedes Mal aufs Neue. Ein Wunder, dass ich auf dem Hinweg nirgendwo dagegen gelaufen bin, denn ich bin mit offenem Buch hierher gelaufen und habe die im Buch genannten Orten und Details gesucht.
 Die Figur, welche den Brunnen am Läuferplatz schmückt, habe ich bisher noch nie bewusst wahrgenommen, doch heute bin ich davor stehen geblieben. Und tatsächlich, der Hausecke gegenüber dem Läuferplatz fehlt ein Stück. Dafür verantwortlich war der «Stäcklikrieg» 1802. Als meine Gedanken zum zweiten Brunnen mit dem Fisch als Wappen der Matte weiterwollen, bleibt mein Blick an dem zufriedenen Gesicht eines älteren Mannes hängen, der auf mich zugeht, und ich kehre in den gegenwärtigen Moment zurück. Das muss Peter Hafen sein, Präsident des Matteänglisch-Clubs.
+
+![](bild-matte-komprimiert-2.jpg)
 
 ### **Begrüssung und eine besondere Feststellung**
 
