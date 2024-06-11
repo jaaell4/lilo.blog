@@ -8,8 +8,16 @@ image = "poetry-2-komprimiert.jpg"
 #### Gedankezäg
 
 Mängisch überschlöh sech mini Gedanke, während däm i eigentlich wet uftanke. Si chöme i däm Ougeblick. Und bräche mer fasch s Gnick.
+
+
+
+
 Purzle überenand, dürenad und blibe irgendwie, irgendwo aus irgendwas lige. Stöh wieder uf und versueches no mau. Verzeue mer ihri ganzi Liste zum wiederhoute Mau.
+
+
 Und immer ändets mit: «Es isch nid guet gnue.»
+
+
 Dert isch öbis zgross, dert isch öbis z chli. Dert söt öbis si und am andere Ort wettis aber nid. 
 Mit vouer Wucht chöme si no mau, schlöh zue, schutte dri und si so, wini nid wet si. 
 Ja wie wetti de si? So nid so sicher nid und so grad gar überhoupt nid.
