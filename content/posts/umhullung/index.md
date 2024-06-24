@@ -1,12 +1,10 @@
 +++
-title = "Umhüllung"
+title = "Umhüllt von einer geheimnisvollen Sprache"
 date = "2024-05-26"
 draft = false
 pinned = false
 image = "bild-matte-komprimiert-2.jpg"
 +++
-
-
 # Umhüllt von einer geheimnisvollen Sprache
 
 {{<lead>}}
@@ -39,6 +37,8 @@ Seine Mundwinkel formen sich zu einem Lächeln, als er das Buch sieht. Er selbst
 
 Wir einigen uns auf das kleine Kaffee in der Ecke des Mühleplatzes, wo an der Mauer in farbigen Lettern «LiguLehm» geschrieben steht,. Übersetzt: Ein Laib Brot. Den Ausdruck kannte ich bereits aus meiner Kindheit, aber bin ihm nie nachgegangen. Jetzt, bestimmt 10 Jahre später, ist er verknüpft mit Wissen rund um die Matte und vielleicht war er auch der Grundstein für meine wachsende Faszination für das Mattenquartier. Kurz bevor wir den Weg in Richtung Kaffee einschlagen, winkt uns eine zufrieden wirkende ältere Dame von der anderen Seite des Mattenbachs zu, der als Taufbecken für echte Mätteler gilt. Es gibt einen vertrauten Wortwechsel zwischen ihr und Peter Hafen, bevor ein erneutes Zuwinken das Gespräch beendet. «Sie ist auch eine richtige Mättelerin.», fügt Peter unserem Gespräch hinzu, als wir in Richtung Kaffee weitergehen. Für einen Moment fühle ich mich tatsächlich etwas fremd, als wäre ich eine Touristin. Irgendwie fehl am Platz. Die Umschliessung der heimeligen Mattenengergie verlässt mich einen Moment, ich bin halt eben keine Mättelerin. Solange ich alleine durch die Matte ziehe, umhüllt sie mich und lässt mich die Tatsache vergessen, dass ich nicht dazugehöre, aber wenn ich Einheimischen begegne, scheint sich die Energie von mir abzuspalten und ist nicht mehr spürbar. Spannend. Ich erfahre später, dass meine Wahrnehmung ihre Berechtigung hat. Es ist ganz klar definiert, ab welcher Generation der Titel «Mätteler» berechtigt getragen werden darf. «Es musste mindestens der Grossvater in der Matte gelebt haben, um als richtiger Mätteler zu gelten.», erklärt mir Peter. Und auch die spürbare Vorsicht, die gegenüber Aussenstehenden herrscht, bestätigt sich darin, dass der Matteänglischclub die Urmätteler nicht für die Weitergabe der Sprache mobilisieren konnte. Auch spannend.
 
+> Es musste mindestens der Grossvater in der Matte gelebt haben, um als richtiger Mätteler zu gelten
+
 ### In der Wärme
 
 Ein leises Klingeln kündigt unser Eintreten in das Kaffee an. Die warme Luft kollidiert mit meinen kalten Wangen. Wir gehen durch einen etwa 8 auf 3 Meter langen Gang. In der Gaststube hat es fünf Tische und eine Theke am Ende. Eine junge Frau nimmt die Bestellung unserer beiden Pfefferminztees auf. Ich beginne mich einzurichten und bin dankbar, dass wir das Kaffee für uns haben, eine geeignete Ausgangslage für das Interview. Eine Frau, die ihr Bier vom Vorabend bezahlen kommt, unterbricht für einen kurzen Moment die Stille. Wir beginnen. Ich tauche meinen Löffel in den dampfenden Tee und im gleichen Zug in das Geheimnis der Matte ein. 
@@ -46,6 +46,8 @@ Ein leises Klingeln kündigt unser Eintreten in das Kaffee an. Die warme Luft ko
 ### Die Entstehung
 
 Draussen herrscht immer noch winterliche Luft, die einem sofort umhüllt. Peter bietet an, einen kleinen Rundgang durch die Matte zu machen, was ich natürlich sofort annehme. Gleich neben dem Kaffee befindet sich die Mühle. Mit den roten Fenstern, der verspielten Umrandungen und dem kleinen Türmchen wirkt sie wie ein Schlösschen auf mich. Wir überqueren den Mühleplatz und begeben uns auf die andere Seite des Aarenarms, dem Tych. Die Mühle, aber auch der Aarenarm erinnert an den regen Betrieb, der hier früher geherrscht hat. Von überall kamen Schiffe. Waren wurden be- und entladen. Die Mühle ratterte Tag und Nacht und produzierte Brot. Die Patrizier aus der Oberstadt profitierten ebenfalls von dem Handel, die Matte war ein wichtiger Ort und garantierte mit der Anlieferung der Waren die Grundlage für das Leben.
+
+> Es gab eine Menge Gerüchte und Vorstellungen.
 
 Umso absurder, dass das Mattenquartier in der Oberstadt als schwarzes Quartier galt und viele Gerüchte dafür sorgten, dass ein grosser Bogen darum gemacht wurde. «Es gab eine Menge Gerüchte und Vorstellungen», verrät  Peter. Der rege Handel brachte nicht nur Waren mit sich, sondern auch neue und unbekannte Sprachen. Teile dieser Sprache zogen wie die Waren weiter, aber einige Wortfetzen blieben hängen. Diese wurden, wie das Mehl, mit dem Wasser, mit dem Berndeutschen verknetet und ergaben den frisch gebackenen Mattedialekt. Die Grundlage bildet das Patrizierberndeutsch von der Oberstadt, neue Begriffe wurden hinzugefügt und alte abgeändert. Der Dialekt entstand also durch einen Prozess. Später entwickelte sich daraus das Matteänglisch. Die Sprache hat ein anderes System als der restliche Berner Dialekt. Buchstaben werden abgetrennt, der Wortanfang mit einem I versehen und der letzte Buchstabe wird durch ein E ersetzt. Um das Ganze lesbarer zu machen, werden zusätzlich Apostrophen benutzt. Definitiv lernbar, aber mit ganz viel Übung verbunden.
 
